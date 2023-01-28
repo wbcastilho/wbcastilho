@@ -1,4 +1,9 @@
-### Hi there 👋
+## wbcastilho
+
+### Formação
+Bacharelado em Ciência da Computação e Técnico em Eletrônica
+
+
 
 <!--
 **wbcastilho/wbcastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
