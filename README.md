@@ -1,6 +1,6 @@
 ## wbcastilho
 
-### :mortar_board: Formação 
+### Formação 
 Bacharelado em Ciência da Computação e Técnico em Eletrônica
 
 ### Compartilhando
